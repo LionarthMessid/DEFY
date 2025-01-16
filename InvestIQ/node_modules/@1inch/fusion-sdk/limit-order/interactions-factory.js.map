@@ -1,0 +1,1 @@
+{"version":3,"file":"interactions-factory.js","sourceRoot":"","sources":["../../src/limit-order/interactions-factory.ts"],"names":[],"mappings":";;;AAAA,4CAAyC;AAEzC,MAAa,mBAAmB;IAC5B,MAAM,CAAC,MAAM,CAAC,aAAqB,EAAE,eAAuB;QACxD,sEAAsE;QACtE,IAAI,eAAe,KAAK,wBAAY,EAAE;YAClC,OAAO,aAAa,CAAA;SACvB;QAED,OAAO,aAAa,GAAG,eAAe,CAAC,SAAS,CAAC,CAAC,CAAC,CAAA;IACvD,CAAC;CACJ;AATD,kDASC"}

@@ -1,0 +1,13 @@
+export declare const AUCTION_BUMP_LENGTH = 6;
+export declare const AUCTION_DELAY_LENGTH = 4;
+export declare const ADDRESS_LENGTH = 40;
+export declare const ALLOWED_TIMESTAMP_LENGTH = 8;
+export declare const PRIVATE_AUCTION_DEADLINE_LENGTH = 8;
+export declare const TAKER_FEE_RECEIVER_LENGTH = 40;
+export declare const TAKER_FEE_RATIO_LENGTH = 24;
+export declare const FLAGS_LENGTH = 2;
+export declare const HAS_TAKING_FEE_FLAG = 128;
+export declare const RESOLVERS_LENGTH_MASK = 120;
+export declare const RESOLVERS_LENGTH_OFFSET = 3;
+export declare const POINTS_LENGTH_MASK = 7;
+export declare const CONTRACT_TAKER_FEE_PRECISION = 1000000000;
